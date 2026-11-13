@@ -1,5 +1,12 @@
 # z-lobehub-deploy
 
+## ✨ 功能概览
+
+- 分阶段规划或实施自托管 LobeHub 的主机、域名与 HTTPS。
+- 分别验证 GitHub 集成、企业微信回执和 Claude Code 执行链路。
+- 区分部署、CI、任务执行和消息送达，记录失败与未验证项。
+> 功能概览由 [Lobe Readme Wizard](https://github.com/lobehub/lobe-readme-wizard) 的 Markdown 生成器生成，内容依据本仓库资料整理。
+
 在新 Linux 机器安装或迁移自托管 LobeHub 的 Codex Skill。覆盖容器与依赖、域名和 HTTPS、设备接入、GitHub App、企业微信长任务回执、Claude Code 认证与试点验收。默认从上游发行物开始，提供操作指南与验收合同。
 
 ## 安装
